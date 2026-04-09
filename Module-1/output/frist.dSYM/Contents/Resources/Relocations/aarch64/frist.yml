@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tahsinslife/Programming/CS Fundamental Course/Course-01/Introduction Week/output/frist'
+relocations:     []
+...

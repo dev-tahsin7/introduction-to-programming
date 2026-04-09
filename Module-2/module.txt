@@ -1,0 +1,7 @@
+What Cover in this module-02 
+    - Operator 
+    - Relational Operator 
+    - Logical Operator 
+    - Conditional Statement 
+    - if..else
+    - nested if..else 
